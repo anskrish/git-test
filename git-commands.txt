@@ -1,0 +1,23 @@
+branch operations
+
+git branch branch-name
+git checkout branch-name
+git add file-name
+git commit -m "adding file-name"
+git push origin banch-name"
+
+merge operations
+
+git checkout master
+git merger branch-name
+
+rebase operation
+
+git checkout branch-name
+git rebase master
+
+---
+git checkout -b branch-name && git push origin branch-name  ----it will create branch and push changes to branch
+git fetch && git checkout branch-name ----it will fetch and checkout to branch (client machine).
+
+git pull --rebase pull ---- the master update before pushing to maste
