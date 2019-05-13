@@ -1,4 +1,4 @@
 #!/bin/bash
 touch r1 r2 r3
-mkdir newfolder
+mkdir newfolder2
 df -h
