@@ -1,1 +1,2 @@
-git add file-name
+git add file
+this
